@@ -1,0 +1,6 @@
+{
+  "name": "DS Travels Indore",
+  "description": "Premium taxi services, local tours, and All India outstation travel from Indore. Experience effortless journeys with All India Permit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

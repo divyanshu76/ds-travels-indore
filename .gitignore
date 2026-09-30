@@ -1,0 +1,18 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local utility / polish scripts (not needed in repo)
+degreen.cjs
+polish.cjs
+apply_fonts.cjs
+fix_enquiry.cjs
+audit_map.cjs
+colors.cjs
+replace.cjs
+replace.js
